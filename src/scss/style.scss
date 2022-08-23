@@ -1,0 +1,12 @@
+@use "./base/variables" as *;
+@use "./base/typography";
+
+body {
+    background-color: $bg;
+    margin: 0;
+    padding: 0;
+}
+
+main {
+    margin: 2rem;
+}
